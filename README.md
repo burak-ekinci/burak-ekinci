@@ -36,6 +36,8 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="53" alt="react logo"  />
   <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="53" alt="react logo"  />
+  <img width="15" />
  <img src="https://skillicons.dev/icons?i=solidity" height="53" alt="solidity logo"  />
  
 </div>
