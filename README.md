@@ -10,10 +10,6 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Solidity and doing decentralized Web 3.0 projects, DAO's 🌐⛓️<br>🎯 Goals: Become a Full Stack Blockchain / Web 3.0 developer<br>🏋🏻 Fun fact: I'm going to gym 💪 and sometimes pc games</p>
-
-###
-
 <h2 align="left">I code with</h2>
 
 ###
